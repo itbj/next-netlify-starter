@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app! anatomical louse" />
+        <Header title="Welcome to my app! 华平在全球10个国家设有14个分支机构。" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
