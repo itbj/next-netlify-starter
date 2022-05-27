@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app! 华平在全球10个国家设有14个分支机构。" />
+        <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
+    华平在全球10个国家设有14个分支机构。
         </p>
       </main>
 
