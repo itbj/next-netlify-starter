@@ -13,11 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app! stoat" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>12345
+          Get started by editing <code>pages/index.js</code> incandescent  전구  jeongu
         </p>
-    <p>
-    <h1> Hello</h1>
-    </P>
       </main>
 
       <Footer />
