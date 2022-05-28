@@ -15,6 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>12345
         </p>
+          <h1>First Post</h1>
+      <h2>
+        <Link href="www.cisco.com">
+          <a>Goto cisco.com</a>
+        </Link>
+      </h2>
       </main>
 
       <Footer />
