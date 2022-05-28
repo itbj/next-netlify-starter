@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app! stoat" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-    <br>1234.
+    <br>12345
         </p>
       </main>
 
