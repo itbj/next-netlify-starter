@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app! stoat" />
         <p className="description">
           Get started by editing <code>pages/index.js</code> incandescent  전구 chefchaouen ibex  라즈베리  Whirlpool State Park Offce 8F k k   a plethora of IT teams
-    惩罚性赔偿 (Punitive damages) Multi-national Property Services Company
+    惩罚性赔偿 (Punitive damages) Multi-national Property Services Company 
         </p>
       </main>
 
